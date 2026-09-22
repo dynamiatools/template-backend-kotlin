@@ -20,7 +20,7 @@
     <properties>
         <java.version>25</java.version>
         <kotlin.version>2.4.20</kotlin.version>
-        <dynamia.version>26.4.1</dynamia.version>
+        <dynamia.version>26.9.0</dynamia.version>
     </properties>
     <dependencies>
         <dependency>
