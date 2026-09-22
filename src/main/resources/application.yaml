@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: demo
+  threads:
+    virtual:
+      enabled: true
+
+# DynamiaTools configuration
+dynamia:
+  app:
+    version: @project.version@
+    name: @project.name@
+    description: @project.description@
